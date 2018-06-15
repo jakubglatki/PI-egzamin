@@ -8,3 +8,5 @@ Wszystkie materiały oraz rozwiązania zadań z platformy/forum/zajęć.
 5. W aplikacji GITHUB DESKTOP wpisujemy nazwę oraz opis zmian (w lewym dolnym rogu)
 6. Klikamy w COMMIT TO MASTER.
 7. Wysyłamy swoje materiały na stronę wciskając PUSH ORIGIN w górnej części aplikacji.
+
+![alt text](https://github.com/StillBetterThanAIR/PI-egzamin/blob/master/instrukcja.png.lnk)
