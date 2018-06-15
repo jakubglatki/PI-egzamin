@@ -6,4 +6,5 @@ Wszystkie materiały oraz rozwiązania zadań z platformy/forum/zajęć.
 3. Kopiujemy: https://github.com/StillBetterThanAIR/PI-egzamin.git, wklejamy w odpowiednie miejsce oraz wybieramy miejsce sklonowania repozytorium. 
 4. Dodajemy swoje materiały do repozytorium.
 5. W aplikacji GITHUB DESKTOP wpisujemy nazwę oraz opis zmian (w lewym dolnym rogu)
-6. Nasikamy COMMIT TO MASTER
+6. Klikamy w COMMIT TO MASTER.
+7. Wysyłamy swoje materiały na stronę wciskając PUSH ORIGIN w górnej części aplikacji.
