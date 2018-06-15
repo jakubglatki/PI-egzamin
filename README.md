@@ -9,4 +9,4 @@ Wszystkie materiały oraz rozwiązania zadań z platformy/forum/zajęć.
 6. Klikamy w COMMIT TO MASTER.
 7. Wysyłamy swoje materiały na stronę wciskając PUSH ORIGIN w górnej części aplikacji.
 
-![alt text](https://github.com/StillBetterThanAIR/PI-egzamin/blob/master/instrukcja.png)
+![alt text](https://github.com/StillBetterThanAIR/PI-egzamin/blob/master/instrukcja.jpg)
